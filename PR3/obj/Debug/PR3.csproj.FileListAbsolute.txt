@@ -1,0 +1,32 @@
+C:\Users\Korsun\source\repos\PR3\PR3\bin\Debug\PR3.exe.config
+C:\Users\Korsun\source\repos\PR3\PR3\bin\Debug\PR3.exe
+C:\Users\Korsun\source\repos\PR3\PR3\bin\Debug\PR3.pdb
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\MainWindow.g.cs
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\App.g.cs
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3_MarkupCompile.cache
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3_MarkupCompile.lref
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\MainWindow.baml
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.g.resources
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.Properties.Resources.resources
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.exe
+C:\Users\Korsun\source\repos\PR3\PR3\obj\Debug\PR3.pdb
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\MainWindow.g.cs
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\App.g.cs
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3_MarkupCompile.cache
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3_MarkupCompile.lref
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.exe
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.pdb
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\bin\Debug\PR3.exe.config
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\bin\Debug\PR3.exe
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\bin\Debug\PR3.pdb
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\MainWindow.baml
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.g.resources
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.Properties.Resources.resources
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+C:\Users\Korsun\OneDrive\Рабочий стол\PR3\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
